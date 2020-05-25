@@ -1,0 +1,1267 @@
+[
+    {
+        "city": "Mumbai", 
+        "admin": "Maharashtra", 
+
+        "population": "18978000"
+    }, 
+    {
+        "city": "Delhi", 
+        "admin": "Delhi", 
+
+        "population": "15926000"
+    }, 
+    {
+        "city": "Kolkata", 
+        "admin": "West Bengal", 
+
+        "population": "14787000"
+    }, 
+    {
+        "city": "Chennai", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "7163000"
+    }, 
+    {
+        "city": "Bengaluru", 
+        "admin": "Karnataka", 
+
+        "population": "6787000"
+    }, 
+    {
+        "city": "Hyderabad", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "6376000"
+    }, 
+    {
+        "city": "Ahmadabad", 
+        "admin": "Gujarat", 
+    "capital": "minor",     "population": "5375000"
+    }, 
+    {
+        "city": "Haora", 
+        "admin": "West Bengal", 
+
+        "population": "4841638"
+    }, 
+    {
+        "city": "Pune", 
+        "admin": "Maharashtra", 
+
+        "population": "4672000"
+    }, 
+    {
+        "city": "Surat", 
+        "admin": "Gujarat", 
+
+        "population": "3842000"
+    }, 
+    {
+        "city": "Mardanpur", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "3162000"
+    }, 
+    {
+        "city": "Rampura", 
+        "admin": "Rajasthan", 
+
+        "population": "2917000"
+    }, 
+    {
+        "city": "Lucknow", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "2695000"
+    }, 
+    {
+        "city": "Nara", 
+        "admin": "Maharashtra", 
+
+        "population": "2454000"
+    }, 
+    {
+        "city": "Patna", 
+        "admin": "Bihar", 
+
+        "population": "2158000"
+    }, 
+    {
+        "city": "Indore", 
+        "admin": "Madhya Pradesh", 
+
+        "population": "2026000"
+    }, 
+    {
+        "city": "Vadodara", 
+        "admin": "Gujarat", 
+
+        "population": "1756000"
+    }, 
+    {
+        "city": "Bhopal", 
+        "admin": "Madhya Pradesh", 
+
+        "population": "1727000"
+    }, 
+    {
+        "city": "Coimbatore", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "1696000"
+    }, 
+    {
+        "city": "Ludhiana", 
+        "admin": "Punjab", 
+
+        "population": "1649000"
+    }, 
+    {
+        "city": "Agra", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "1592000"
+    }, 
+    {
+        "city": "Kalyan", 
+        "admin": "Maharashtra", 
+
+        "population": "1576614"
+    }, 
+    {
+        "city": "Vishakhapatnam", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "1529000"
+    }, 
+    {
+        "city": "Kochi", 
+        "admin": "Kerala", 
+
+        "population": "1519000"
+    }, 
+    {
+        "city": "Nasik", 
+        "admin": "Maharashtra", 
+
+        "population": "1473000"
+    }, 
+    {
+        "city": "Meerut", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "1398000"
+    }, 
+    {
+        "city": "Faridabad", 
+        "admin": "Haryana", 
+
+        "population": "1394000"
+    }, 
+    {
+        "city": "Varanasi", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "1352000"
+    }, 
+    {
+        "city": "Ghaziabad", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "1341000"
+    }, 
+    {
+        "city": "Asansol", 
+        "admin": "West Bengal", 
+
+        "population": "1328000"
+    }, 
+    {
+        "city": "Jamshedpur", 
+        "admin": "Jharkhand", 
+
+        "population": "1300000"
+    }, 
+    {
+        "city": "Madurai", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "1294000"
+    }, 
+    {
+        "city": "Jabalpur", 
+        "admin": "Madhya Pradesh", 
+
+        "population": "1285000"
+    }, 
+    {
+        "city": "Rajkot", 
+        "admin": "Gujarat", 
+
+        "population": "1260000"
+    }, 
+    {
+        "city": "Dhanbad", 
+        "admin": "Jharkhand", 
+
+        "population": "1246000"
+    }, 
+    {
+        "city": "Amritsar", 
+        "admin": "Punjab", 
+
+        "population": "1212000"
+    }, 
+    {
+        "city": "Warangal", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "1203853"
+    }, 
+    {
+        "city": "Allahabad", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "1201000"
+    }, 
+    {
+        "city": "Srinagar", 
+        "admin": "Jammu and Kashmir", 
+
+        "population": "1140000"
+    }, 
+    {
+        "city": "Aurangabad", 
+        "admin": "Maharashtra", 
+
+        "population": "1113000"
+    }, 
+    {
+        "city": "Bhilai", 
+        "admin": "Chhattisgarh", 
+
+        "population": "1097000"
+    }, 
+    {
+        "city": "Solapur", 
+        "admin": "Maharashtra", 
+
+        "population": "1057000"
+    }, 
+    {
+        "city": "Ranchi", 
+        "admin": "Jharkhand", 
+
+        "population": "1044000"
+    }, 
+    {
+        "city": "Jodhpur", 
+        "admin": "Rajasthan", 
+
+        "population": "995000"
+    }, 
+    {
+        "city": "Guwahati", 
+        "admin": "Assam", 
+
+        "population": "983000"
+    }, 
+    {
+        "city": "Chandigarh", 
+        "admin": "Chandigarh", 
+
+        "population": "979000"
+    }, 
+    {
+        "city": "Gwalior", 
+        "admin": "Madhya Pradesh", 
+
+        "population": "978000"
+    }, 
+    {
+        "city": "Thiruvananthapuram", 
+        "admin": "Kerala", 
+
+        "population": "954000"
+    }, 
+    {
+        "city": "Tiruchchirappalli", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "951000"
+    }, 
+    {
+        "city": "Hubli", 
+        "admin": "Karnataka", 
+
+        "population": "890000"
+    }, 
+    {
+        "city": "Mysore", 
+        "admin": "Karnataka", 
+
+        "population": "887000"
+    }, 
+    {
+        "city": "Raipur", 
+        "admin": "Chhattisgarh", 
+
+        "population": "875000"
+    }, 
+    {
+        "city": "Salem", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "873000"
+    }, 
+    {
+        "city": "Bhubaneshwar", 
+        "admin": "Odisha", 
+
+        "population": "844000"
+    }, 
+    {
+        "city": "Kota", 
+        "admin": "Rajasthan", 
+
+        "population": "827000"
+    }, 
+    {
+        "city": "Jhansi", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "826494"
+    }, 
+    {
+        "city": "Bareilly", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "817000"
+    }, 
+    {
+        "city": "Aligarh", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "805000"
+    }, 
+    {
+        "city": "Bhiwandi", 
+        "admin": "Maharashtra", 
+
+        "population": "795000"
+    }, 
+    {
+        "city": "Jammu", 
+        "admin": "Jammu and Kashmir", 
+
+        "population": "791000"
+    }, 
+    {
+        "city": "Moradabad", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "787000"
+    }, 
+    {
+        "city": "Mangalore", 
+        "admin": "Karnataka", 
+
+        "population": "776632"
+    }, 
+    {
+        "city": "Kolhapur", 
+        "admin": "Maharashtra", 
+
+        "population": "750000"
+    }, 
+    {
+        "city": "Amravati", 
+        "admin": "Maharashtra", 
+
+        "population": "734451"
+    }, 
+    {
+        "city": "Dehra Dun", 
+        "admin": "Uttarakhand", 
+
+        "population": "714223"
+    }, 
+    {
+        "city": "Malegaon Camp", 
+        "admin": "Maharashtra", 
+
+        "population": "690844"
+    }, 
+    {
+        "city": "Nellore", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "678004"
+    }, 
+    {
+        "city": "Gopalpur", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "674246"
+    }, 
+    {
+        "city": "Shimoga", 
+        "admin": "Karnataka", 
+
+        "population": "654055"
+    }, 
+    {
+        "city": "Tiruppur", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "650000"
+    }, 
+    {
+        "city": "Raurkela", 
+        "admin": "Odisha", 
+
+        "population": "625831"
+    }, 
+    {
+        "city": "Nanded", 
+        "admin": "Maharashtra", 
+
+        "population": "623708"
+    }, 
+    {
+        "city": "Belgaum", 
+        "admin": "Karnataka", 
+
+        "population": "608756"
+    }, 
+    {
+        "city": "Sangli", 
+        "admin": "Maharashtra", 
+
+        "population": "601214"
+    }, 
+    {
+        "city": "Chanda", 
+        "admin": "Maharashtra", 
+
+        "population": "595118"
+    }, 
+    {
+        "city": "Ajmer", 
+        "admin": "Rajasthan", 
+
+        "population": "589985"
+    }, 
+    {
+        "city": "Cuttack", 
+        "admin": "Odisha", 
+
+        "population": "580000"
+    }, 
+    {
+        "city": "Bikaner", 
+        "admin": "Rajasthan", 
+
+        "population": "576015"
+    }, 
+    {
+        "city": "Bhavnagar", 
+        "admin": "Gujarat", 
+
+        "population": "554978"
+    }, 
+    {
+        "city": "Hisar", 
+        "admin": "Haryana", 
+
+        "population": "544829"
+    }, 
+    {
+        "city": "Bilaspur", 
+        "admin": "Chhattisgarh", 
+
+        "population": "543454"
+    }, 
+    {
+        "city": "Tirunelveli", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "542200"
+    }, 
+    {
+        "city": "Guntur", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "530577"
+    }, 
+    {
+        "city": "Shiliguri", 
+        "admin": "West Bengal", 
+
+        "population": "515574"
+    }, 
+    {
+        "city": "Ujjain", 
+        "admin": "Madhya Pradesh", 
+
+        "population": "513350"
+    }, 
+    {
+        "city": "Davangere", 
+        "admin": "Karnataka", 
+
+        "population": "503564"
+    }, 
+    {
+        "city": "Akola", 
+        "admin": "Maharashtra", 
+
+        "population": "503502"
+    }, 
+    {
+        "city": "Saharanpur", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "484873"
+    }, 
+    {
+        "city": "Gulbarga", 
+        "admin": "Karnataka", 
+
+        "population": "483615"
+    }, 
+    {
+        "city": "Bhatpara", 
+        "admin": "West Bengal", 
+
+        "population": "483129"
+    }, 
+    {
+        "city": "Dhulia", 
+        "admin": "Maharashtra", 
+
+        "population": "479073"
+    }, 
+    {
+        "city": "Udaipur", 
+        "admin": "Rajasthan", 
+
+        "population": "469737"
+    }, 
+    {
+        "city": "Bellary", 
+        "admin": "Karnataka", 
+
+        "population": "445388"
+    }, 
+    {
+        "city": "Tuticorin", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "436094"
+    }, 
+    {
+        "city": "Kurnool", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "424920"
+    }, 
+    {
+        "city": "Gaya", 
+        "admin": "Bihar", 
+
+        "population": "423692"
+    }, 
+    {
+        "city": "Sikar", 
+        "admin": "Rajasthan", 
+
+        "population": "400000"
+    }, 
+    {
+        "city": "Tumkur", 
+        "admin": "Karnataka", 
+
+        "population": "399606"
+    }, 
+    {
+        "city": "Kollam", 
+        "admin": "Kerala", 
+
+        "population": "394163"
+    }, 
+    {
+        "city": "Ahmadnagar", 
+        "admin": "Maharashtra", 
+
+        "population": "391760"
+    }, 
+    {
+        "city": "Bhilwara", 
+        "admin": "Rajasthan", 
+
+        "population": "389911"
+    }, 
+    {
+        "city": "Nizamabad", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "388505"
+    }, 
+    {
+        "city": "Parbhani", 
+        "admin": "Maharashtra", 
+
+        "population": "378326"
+    }, 
+    {
+        "city": "Shillong", 
+        "admin": "Meghalaya", 
+
+        "population": "375527"
+    }, 
+    {
+        "city": "Latur", 
+        "admin": "Maharashtra", 
+
+        "population": "374394"
+    }, 
+    {
+        "city": "Rajapalaiyam", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "369991"
+    }, 
+    {
+        "city": "Bhagalpur", 
+        "admin": "Bihar", 
+
+        "population": "361548"
+    }, 
+    {
+        "city": "Muzaffarnagar", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "349706"
+    }, 
+    {
+        "city": "Muzaffarpur", 
+        "admin": "Bihar", 
+
+        "population": "333200"
+    }, 
+    {
+        "city": "Mathura", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "330511"
+    }, 
+    {
+        "city": "Patiala", 
+        "admin": "Punjab", 
+
+        "population": "329224"
+    }, 
+    {
+        "city": "Saugor", 
+        "admin": "Madhya Pradesh", 
+
+        "population": "328240"
+    }, 
+    {
+        "city": "Brahmapur", 
+        "admin": "Odisha", 
+
+        "population": "324726"
+    }, 
+    {
+        "city": "Shahbazpur", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "320434"
+    }, 
+    {
+        "city": "New Delhi", 
+        "admin": "Delhi", 
+        "population": "317797"
+    }, 
+    {
+        "city": "Rohtak", 
+        "admin": "Haryana", 
+        "population": "317245"
+    }, 
+    {
+        "city": "Samlaipadar", 
+        "admin": "Odisha", 
+        "population": "310852"
+    }, 
+    {
+        "city": "Ratlam", 
+        "admin": "Madhya Pradesh", 
+
+        "population": "307229"
+    }, 
+    {
+        "city": "Firozabad", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "306409"
+    }, 
+    {
+        "city": "Rajahmundry", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "304804"
+    }, 
+    {
+        "city": "Barddhaman", 
+        "admin": "West Bengal", 
+
+        "population": "301725"
+    }, 
+    {
+        "city": "Bidar", 
+        "admin": "Karnataka", 
+
+        "population": "300136"
+    }, 
+    {
+        "city": "Bamanpuri", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "296418"
+    }, 
+    {
+        "city": "Kakinada", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "292923"
+    }, 
+    {
+        "city": "Panipat", 
+        "admin": "Haryana", 
+
+        "population": "292808"
+    }, 
+    {
+        "city": "Khammam", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "290839"
+    }, 
+    {
+        "city": "Bhuj", 
+        "admin": "Gujarat", 
+
+        "population": "289429"
+    }, 
+    {
+        "city": "Karimnagar", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "288251"
+    }, 
+    {
+        "city": "Tirupati", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "287035"
+    }, 
+    {
+        "city": "Hospet", 
+        "admin": "Karnataka", 
+
+        "population": "286007"
+    }, 
+    {
+        "city": "Chikka Mandya", 
+        "admin": "Karnataka", 
+
+        "population": "285034"
+    }, 
+    {
+        "city": "Alwar", 
+        "admin": "Rajasthan", 
+
+        "population": "283228"
+    }, 
+    {
+        "city": "Aizawl", 
+        "admin": "Mizoram", 
+
+        "population": "283021"
+    }, 
+    {
+        "city": "Bijapur", 
+        "admin": "Karnataka", 
+
+        "population": "271064"
+    }, 
+    {
+        "city": "Imphal", 
+        "admin": "Manipur", 
+
+        "population": "264986"
+    }, 
+    {
+        "city": "Tharati Etawah", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "257448"
+    }, 
+    {
+        "city": "Raichur", 
+        "admin": "Karnataka", 
+
+        "population": "255240"
+    }, 
+    {
+        "city": "Pathankot", 
+        "admin": "Punjab", 
+
+        "population": "253987"
+    }, 
+    {
+        "city": "Chirala", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "253000"
+    }, 
+    {
+        "city": "Sonipat", 
+        "admin": "Haryana", 
+
+        "population": "250521"
+    }, 
+    {
+        "city": "Mirzapur", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "245817"
+    }, 
+    {
+        "city": "Hapur", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "242920"
+    }, 
+    {
+        "city": "Porbandar", 
+        "admin": "Gujarat", 
+
+        "population": "234684"
+    }, 
+    {
+        "city": "Bharatpur", 
+        "admin": "Rajasthan", 
+
+        "population": "229384"
+    }, 
+    {
+        "city": "Puducherry", 
+        "admin": "Puducherry", 
+
+        "population": "227411"
+    }, 
+    {
+        "city": "Karnal", 
+        "admin": "Haryana", 
+
+        "population": "225049"
+    }, 
+    {
+        "city": "Nagercoil", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "224329"
+    }, 
+    {
+        "city": "Thanjavur", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "219571"
+    }, 
+    {
+        "city": "Pali", 
+        "admin": "Rajasthan", 
+
+        "population": "210103"
+    }, 
+    {
+        "city": "Agartala", 
+        "admin": "Tripura", 
+
+        "population": "203264"
+    }, 
+    {
+        "city": "Ongole", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "202860"
+    }, 
+    {
+        "city": "Puri", 
+        "admin": "Odisha", 
+
+        "population": "201026"
+    }, 
+    {
+        "city": "Dindigul", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "200797"
+    }, 
+    {
+        "city": "Haldia", 
+        "admin": "West Bengal", 
+
+        "population": "200762"
+    }, 
+    {
+        "city": "Bulandshahr", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "198612"
+    }, 
+    {
+        "city": "Purnea", 
+        "admin": "Bihar", 
+
+        "population": "198453"
+    }, 
+    {
+        "city": "Proddatur", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "197451"
+    }, 
+    {
+        "city": "Gurgaon", 
+        "admin": "Haryana", 
+
+        "population": "197340"
+    }, 
+    {
+        "city": "Khanapur", 
+        "admin": "Maharashtra", 
+
+        "population": "197233"
+    }, 
+    {
+        "city": "Machilipatnam", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "192827"
+    }, 
+    {
+        "city": "Bhiwani", 
+        "admin": "Haryana", 
+
+        "population": "190855"
+    }, 
+    {
+        "city": "Nandyal", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "188654"
+    }, 
+    {
+        "city": "Bhusaval", 
+        "admin": "Maharashtra", 
+
+        "population": "183001"
+    }, 
+    {
+        "city": "Bharauri", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "182218"
+    }, 
+    {
+        "city": "Tonk", 
+        "admin": "Rajasthan", 
+
+        "population": "181734"
+    }, 
+    {
+        "city": "Sirsa", 
+        "admin": "Haryana", 
+
+        "population": "181639"
+    }, 
+    {
+        "city": "Vizianagaram", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "179358"
+    }, 
+    {
+        "city": "Vellore", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "177081"
+    }, 
+    {
+        "city": "Alappuzha", 
+        "admin": "Kerala", 
+
+        "population": "176783"
+    }, 
+    {
+        "city": "Shimla", 
+        "admin": "Himachal Pradesh", 
+
+        "population": "173503"
+    }, 
+    {
+        "city": "Hindupur", 
+        "admin": "Andhra Pradesh", 
+
+        "population": "168312"
+    }, 
+    {
+        "city": "Baramula", 
+        "admin": "Jammu and Kashmir", 
+
+        "population": "167986"
+    }, 
+    {
+        "city": "Bakshpur", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "166480"
+    }, 
+    {
+        "city": "Dibrugarh", 
+        "admin": "Assam", 
+
+        "population": "166366"
+    }, 
+    {
+        "city": "Saidapur", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "164435"
+    }, 
+    {
+        "city": "Navsari", 
+        "admin": "Gujarat", 
+
+        "population": "163000"
+    }, 
+    {
+        "city": "Budaun", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "161555"
+    }, 
+    {
+        "city": "Cuddalore", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "158569"
+    }, 
+    {
+        "city": "Haripur", 
+        "admin": "Punjab", 
+
+        "population": "158142"
+    }, 
+    {
+        "city": "Krishnapuram", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "155029"
+    }, 
+    {
+        "city": "Fyzabad", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "153047"
+    }, 
+    {
+        "city": "Silchar", 
+        "admin": "Assam", 
+
+        "population": "152393"
+    }, 
+    {
+        "city": "Ambala", 
+        "admin": "Haryana", 
+
+        "population": "146787"
+    }, 
+    {
+        "city": "Krishnanagar", 
+        "admin": "West Bengal", 
+
+        "population": "145926"
+    }, 
+    {
+        "city": "Kolar", 
+        "admin": "Karnataka", 
+
+        "population": "144625"
+    }, 
+    {
+        "city": "Kumbakonam", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "139264"
+    }, 
+    {
+        "city": "Tiruvannamalai", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "138243"
+    }, 
+    {
+        "city": "Pilibhit", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "131008"
+    }, 
+    {
+        "city": "Abohar", 
+        "admin": "Punjab", 
+
+        "population": "130603"
+    }, 
+    {
+        "city": "Port Blair", 
+        "admin": "Andaman and Nicobar Islands", 
+
+        "population": "127562"
+    }, 
+    {
+        "city": "Alipur Duar", 
+        "admin": "West Bengal", 
+
+        "population": "127342"
+    }, 
+    {
+        "city": "Hatisa", 
+        "admin": "Uttar Pradesh", 
+
+        "population": "126882"
+    }, 
+    {
+        "city": "Valparai", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "114308"
+    }, 
+    {
+        "city": "Aurangabad", 
+        "admin": "Bihar", 
+
+        "population": "95929"
+    }, 
+    {
+        "city": "Kohima", 
+        "admin": "Nagaland", 
+
+        "population": "92113"
+    }, 
+    {
+        "city": "Gangtok", 
+        "admin": "Sikkim", 
+
+        "population": "77900"
+    }, 
+    {
+        "city": "Karur", 
+        "admin": "Tamil Nadu ", 
+
+        "population": "76915"
+    }, 
+    {
+        "city": "Jorhat", 
+        "admin": "Assam", 
+
+        "population": "69033"
+    }, 
+    {
+        "city": "Panaji", 
+        "admin": "Goa", 
+
+        "population": "65586"
+    }, 
+    {
+        "city": "Saidpur", 
+        "admin": "Jammu and Kashmir", 
+
+        "population": "63035"
+    }, 
+    {
+        "city": "Tezpur", 
+        "admin": "Assam", 
+
+        "population": "58851"
+    }, 
+    {
+        "city": "Itanagar", 
+        "admin": "Arunachal Pradesh", 
+
+        "population": "44971"
+    }, 
+    {
+        "city": "Daman", 
+        "admin": "Daman and Diu", 
+
+        "population": "39737"
+    }, 
+    {
+        "city": "Silvassa", 
+        "admin": "Dadra and Nagar Haveli", 
+
+        "population": "27359"
+    }, 
+    {
+        "city": "Diu", 
+        "admin": "Daman and Diu", 
+
+        "population": "23779"
+    }, 
+    {
+        "city": "Dispur", 
+        "admin": "Assam", 
+
+        "population": "16140"
+    }, 
+    {
+        "city": "Kavaratti", 
+        "admin": "Lakshadweep", 
+
+        "population": "10688"
+    }, 
+    {
+        "city": "Calicut", 
+        "admin": "Kerala", 
+    "capital": "minor",     "population": ""
+    }, 
+    {
+        "city": "Kagaznagar", 
+        "admin": "Andhra Pradesh", 
+    "capital": "minor",     "population": ""
+    }, 
+    {
+        "city": "Jaipur", 
+        "admin": "Rajasthan", 
+
+        "population": ""
+    }, 
+    {
+        "city": "Ghandinagar", 
+        "admin": "Gujarat", 
+
+        "population": ""
+    }, 
+    {
+        "city": "Panchkula", 
+        "admin": "Haryana", 
+    "capital": "minor",     "population": ""
+    }
+]
